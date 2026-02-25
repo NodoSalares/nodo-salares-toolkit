@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logos/Logo noso SALARES.png" height="120">
+  <img src="assets/logos/Logo nodo SALARES.png" height="120">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/logos/logo UA.png" height="120">
 </p>
