@@ -35,7 +35,7 @@ Si utilizas material de este repositorio, se recomienda citar el recurso especí
 
 El **Nodo Laboratorio Natural Salares** es una iniciativa orientada a fortalecer la investigación, el diálogo transdisciplinario y la generación de conocimiento aplicado para la conservación y gestión sostenible de los salares altoandinos.
 
----ENGLISH VERSION
+--
 
 # Nodo Salares Toolkit
 
