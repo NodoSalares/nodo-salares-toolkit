@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="assets/logos/nodo.png" width="250">
-  <img src="assets/logos/anid.png" width="250">
+  <img src="assets/logos/Logo Nodo SALARES.png" width="250">
+  <img src="assets/logos/logo UA.png" width="250">
 </p>
 
 # Nodo Salares Toolkit
