@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/logos/nodo.png" width="250">
+  <img src="assets/logos/anid.png" width="250">
+</p>
+
 # Nodo Salares Toolkit
 
 La **Caja de Herramientas del Nodo Salares** reúne protocolos, recursos educativos, informes técnicos y material de divulgación generados en el marco de la iniciativa **Nodo Laboratorio Natural Salares**.
